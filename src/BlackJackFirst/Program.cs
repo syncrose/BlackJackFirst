@@ -34,7 +34,7 @@ namespace BlackJackFirst
                     deck.RemoveAt(randDeck);
 
                 }
-
+                //TEST
                 while (newDeck.Count > 12)
                 {
                     //MAIN GAME CODE LOGIC
