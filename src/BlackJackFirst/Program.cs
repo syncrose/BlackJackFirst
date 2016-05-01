@@ -9,6 +9,7 @@ namespace BlackJackFirst
     {
         public static void Main(string[] args)
         {
+            //START CODE
 
             Console.WriteLine("Would you like to play Blackjack?");
             if (Console.ReadLine() == "yes")
